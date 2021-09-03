@@ -4,7 +4,7 @@ I love building websites and various projects on my spare time. I'm currently le
 
 Skills: JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on a [Library Project](https://coderlore.github.io/library/) 
+- 🔭 I’m currently working on a [Restaurant Project](https://github.com/coderlore/restaurant) 
 - 🤔 I’m looking for help with contributing to Open Source 
 - 📫 How to reach me: coderlore@gmail.com 
 - 😄 Pronouns: She/Her 
