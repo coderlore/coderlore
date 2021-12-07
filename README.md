@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Laurie
 #### FullStack Developer
-I love building websites and various projects on my spare time. I'm currently learing fullstack development through The Odin Project, which is an Open Source resource. I've also been learning through other tutorials and putting these skills into practice.
+I love building websites and various projects on my spare time. I'm currently learning fullstack development through The Odin Project, which is an Open Source resource. I've also been learning through other tutorials and putting these skills into practice.
 
 Skills: JS / HTML / CSS / Python
 
