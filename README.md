@@ -2,13 +2,14 @@
 coderlore/coderlore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://github.com/coderlore/coderlore/blob/main/LinkedIn-Banner.png" alt="banner">
 <h1 align="center">Hi there 👋, I'm Laurie</h1>
 <h3 align="center">Full-Stack Software Developer at 100Devs</h3>
 I love building websites and various projects on my spare time. I'm currently freelancing for local small businesses to build websites and web applications.
 
-- 🔭 I’m currently working on a [BattleShip Project](https://github.com/coderlore/battleship) 
+- 🔭 I’m currently open to **new client opportunities**
 
-- 🌱 I’m currently learning **Frameworks and backend**
+- 🌱 I’m currently learning **React and Node**
 
 - 🤝 I’m looking for help with **contributing to Open Source projects**
 
