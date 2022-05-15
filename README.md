@@ -3,8 +3,8 @@ coderlore/coderlore is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there 👋, I'm Laurie</h1>
-<h3 align="center">Full-Stack Software Developer</h3>
-I love building websites and various projects on my spare time. I'm currently learning fullstack development through #100Devs and The Odin Project. I've also been learning through other tutorials and putting these skills into practice.
+<h3 align="center">Full-Stack Software Developer at 100Devs</h3>
+I love building websites and various projects on my spare time. I'm currently freelancing for local small businesses to build websites and web applications.
 
 - 🔭 I’m currently working on a [BattleShip Project](https://github.com/coderlore/battleship) 
 
