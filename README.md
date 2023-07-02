@@ -9,9 +9,9 @@ I love building websites and various projects on my spare time. I'm currently fr
 
 - 🔭 I’m currently open to **new client opportunities**
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **React/TypeScript, TDD, and Kubernetes**
 
-- 🤝 I’m looking for help with **contributing to Open Source projects**
+- 🤝 I’m looking to **contribute to Open Source projects**
 
 - 📫 How to reach me **coderlore@gmail.com**
 
