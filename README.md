@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github.com/coderlore/coderlore/blob/main/LinkedIn-Banner.png" alt="banner">
 <h1 align="center">Hi there 👋, I'm Laurie</h1>
-<h3 align="center">Full-Stack Software Developer at 100Devs</h3>
-I love building websites and various projects on my spare time. I'm currently freelancing for local small businesses to build websites and web applications.
+<h3 align="center">Full-Stack Software Developer frim Hawaii</h3>
+I love building websites and various projects in my spare time. I'm currently freelancing for local small businesses and non profits to build websites and web applications.
 
 - 🔭 I’m currently open to **new client opportunities**
 
