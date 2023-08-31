@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github.com/coderlore/coderlore/blob/main/LinkedIn-Banner.png" alt="banner">
 <h1 align="center">Hi there 👋, I'm Laurie</h1>
-<h3 align="center">Full-Stack Software Developer frim Hawaii</h3>
+<h3 align="center">Full-Stack Software Developer from Hawaii</h3>
 I love building websites and various projects in my spare time. I'm currently freelancing for local small businesses and non profits to build websites and web applications.
 
 - 🔭 I’m currently open to **new client opportunities**
